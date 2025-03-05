@@ -69,5 +69,5 @@ Trekking, Mountain Biking, Hiking, CTFs, Research, Cooking
 
 ---
 
-📧 Contact: **aryalshishir1@gmail.com**  
+📧 Contact: **shishiraryal2023@gmail.com**  
 🌐 LinkedIn: [linkedin.com/in/shishir-aryal](https://linkedin.com/in/shishir-aryal)  
