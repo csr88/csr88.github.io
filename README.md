@@ -1,6 +1,19 @@
 # Cybersecurity Researcher & Educator
 
-#### Technical Skills: Python, Django, PHP, Flutter, SQL, Linux, Cybersecurity (Pentesting, GRC), Web Development (HTML, CSS, JavaScript, jQuery, PHP)
+## Skills  
+
+- **Technical Skills**  
+  - **Programming & Development:** Python, Django, PHP, Flutter, HTML, CSS, JavaScript  
+  - **Cybersecurity:** Vulnerability Assessment, Network Penetration Testing, Governance, Risk, and Compliance (GRC)  
+  - **Systems & Databases:** Linux, SQL  
+
+- **Tools & Technologies**  
+  - **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
+  - **Other:** Microsoft Office Suite, WordPress  
+
+- **Soft Skills**  
+  - Report Writing, Market Analysis, Research & Analysis, Mentorship, Documentation
+
 
 ## Education
 - **Bachelor of Computer Science (BCS)** | Sunway College Kathmandu (_2020-2023_)  
