@@ -8,7 +8,7 @@
   - **Systems & Databases:** Linux, SQL  
 
 - **Tools & Technologies**  
-  - **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
+  - **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, etc.  
   - **Other:** Microsoft Office Suite, WordPress  
 
 - **Soft Skills**  
