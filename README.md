@@ -1,32 +1,63 @@
-# Data Scientist
+# Cybersecurity Researcher & Educator
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Django, PHP, Flutter, SQL, Linux, Cybersecurity (Pentesting, GRC), Web Development (HTML, CSS, JavaScript, jQuery, PHP)
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **Bachelor of Computer Science (BCS)** | Sunway College Kathmandu (_2020-2023_)  
+  Graduated with a CGPA of 3.748
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Computer Science Lecturer @ Kathmandu Model College (_Dec 2023 - Present_)**  
+- Teaching over 700 students across science and management faculties on web development (HTML, CSS, JavaScript, jQuery, PHP) and foundational C programming.
+- Conducting 40+ hands-on sessions per week to ensure practical learning.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Cybersecurity Instructor @ Kathmandu Model College (via Uniglobe Education Network, NCC Education) (_Dec 2023 - Apr 2024_)**  
+- Delivered an 80-hour cybersecurity course covering Linux, Python automation, networking, bash scripting, penetration testing, and web attacks.
+- Trained 75 students, equipping them with essential cybersecurity skills.
+
+**Associate Security Research Analyst @ SecurityPal SOCC (_Mar 2023 - Sep 2023_)**  
+- Conducted over 300 security assessments, vendor evaluations, and RFPs for major Fortune 500 clients like BlackRock, MongoDB, and Figma.
+- Collaborated with experts to enhance corporate security policies.
+
+**Technical Content Writer @ Cyber Nepal (_Aug 2020 - Oct 2020_)**  
+- Published articles on emerging tech trends in Nepal, enhancing public awareness.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Commence Your Study – Web Application
+Django-based platform designed to provide students with reliable study-abroad information, streamlining their decision-making process.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+![Commence Your Study](/assets/img/commence_study.jpeg)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Mechanic Appointment System – Android Application
+Built with **Flutter & Firebase**, this app allows users to book mechanic appointments, improving accessibility and efficiency.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+![Mechanic App](/assets/img/mechanic_app.jpeg)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### TODO List – Web Application
+A simple **Django-based task management system** that helps users organize and track their daily tasks.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![TODO List](/assets/img/todo_list.jpeg)
+
+## Certifications
+- **Certified in CyberSecurity (CC)** - (ISC)²  
+- **Penetration Testing, Incident Response, and Forensics** - Coursera  
+
+## Leadership & Extracurricular Activities
+- **Zonal Secretary @ Rotaract Club, Zone IX (_Jul 2024 - Present_)**
+- **Secretary @ Sunway Student Representative Council (_Jul 2022 - Jul 2023_)**
+- **Social Media & Sponsor Manager @ Hult Prize, Sunway College (_Oct 2022 - Dec 2022_)**
+- **Club Secretary @ Rotaract Club of Budhanilkantha (_Jul 2023 - Jul 2024_)**
+- **Club Administration Chair @ Rotaract Club of Budhanilkantha (_Jul 2022 - Jul 2023_)**
+
+## Languages
+- **Nepali** - Native  
+- **English** - Full Professional Proficiency  
+- **Hindi** - Limited Working Proficiency  
+
+## Interests
+Trekking, Mountain Biking, Hiking, CTFs, Research, Cooking
+
+---
+
+📧 Contact: **aryalshishir1@gmail.com**  
+🌐 LinkedIn: [linkedin.com/in/shishir-aryal](https://linkedin.com/in/shishir-aryal)  
