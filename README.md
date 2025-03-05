@@ -26,17 +26,14 @@
 ### Commence Your Study – Web Application
 Django-based platform designed to provide students with reliable study-abroad information, streamlining their decision-making process.
 
-![Commence Your Study](/assets/img/commence_study.jpeg)
 
 ### Mechanic Appointment System – Android Application
 Built with **Flutter & Firebase**, this app allows users to book mechanic appointments, improving accessibility and efficiency.
 
-![Mechanic App](/assets/img/mechanic_app.jpeg)
 
 ### TODO List – Web Application
 A simple **Django-based task management system** that helps users organize and track their daily tasks.
 
-![TODO List](/assets/img/todo_list.jpeg)
 
 ## Certifications
 - **Certified in CyberSecurity (CC)** - (ISC)²  
