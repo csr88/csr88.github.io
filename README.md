@@ -3,7 +3,7 @@
 ## Skills  
 
 - **Technical Skills**  
-  - **Programming & Development:** Python, Django, PHP, Flutter, HTML, CSS, JavaScript  
+  - **Programming & Development:** Python, Django, PHP, Flutter, Java, HTML, CSS, JavaScript  
   - **Cybersecurity:** Vulnerability Assessment, Network Penetration Testing, Governance, Risk, and Compliance (GRC)  
   - **Systems & Databases:** Linux, SQL  
 
