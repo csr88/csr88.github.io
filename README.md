@@ -16,8 +16,11 @@
 
 
 ## Education
-- **Bachelor of Computer Science (BCS)** | Sunway College Kathmandu (_2020-2023_)  
-  Graduated with a CGPA of 3.748
+- **Master of Computer Applications (MCA)** | Patan Multiple Campus (_Jan 2025 – Present_)  
+  Currently pursuing a Master's degree in Computer Applications.
+
+- **Bachelor of Computer Science (BCS)** | Sunway College Kathmandu (_2020–2023_)  
+  Graduated with a CGPA of 3.748.
 
 ## Work Experience
 **Computer Science Lecturer @ Kathmandu Model College (_Dec 2023 - Present_)**  
